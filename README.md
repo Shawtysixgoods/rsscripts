@@ -1,1 +1,2 @@
-1
+instructions.md - введение
+events - события
